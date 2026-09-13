@@ -17,4 +17,4 @@ I value explicit system boundaries, deterministic verification, auditable automa
 
 AWS · Terraform · Developer Platforms · Infrastructure as Code · Identity and Access Management · AI and Data Platforms · Security and Resiliency · CI/CD · Python · SQL
 
-[LinkedIn](https://www.linkedin.com/in/jason-harmon-7705346a/)
+[LinkedIn](https://www.linkedin.com/in/jasonharmontech/)
