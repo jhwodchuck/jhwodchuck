@@ -9,6 +9,7 @@ My current focus is developer platforms, governed AI and agentic systems, infras
 ### Selected work
 
 - **[mcbaratone](https://github.com/jhwodchuck/mcbaratone)** — A safety-gated autonomous Minecraft agent with a Python controller, Java/Fabric bridge, MCP and JSON-RPC interfaces, checkpointed planning, postcondition verification, and more than 2,300 offline tests.
+- **[StickerStream](https://github.com/jhwodchuck/StickerStream)** — A privacy-conscious vehicle inventory intelligence pipeline with concurrent source orchestration, canonical data normalization, geospatial enrichment, and explainable market-relative scoring.
 - **[EmberChamber](https://github.com/jhwodchuck/EmberChamber)** — An invite-only, local-first encrypted messaging platform for trusted circles, spanning Cloudflare Workers, Next.js, React Native, Tauri, and shared Rust protocol and secure-state components. [Live project](https://emberchamber.com/)
 - **[The Great Camp Crawl](https://github.com/jhwodchuck/The-Great-Camp-Crawl)** — A reproducible Python and TypeScript research pipeline that preserves source evidence, normalizes records, generates review queues, and publishes a searchable knowledge base. [Live catalog](https://the-great-camp-crawl.vercel.app/camps)
 
